@@ -1,1 +1,1 @@
-![](raw.githubusercontent.com/Acitulen/CleanBase/main/test2.svg)
+![preview](raw.githubusercontent.com/Acitulen/CleanBase/main/test2.svg)
