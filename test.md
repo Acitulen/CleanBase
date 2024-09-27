@@ -1,1 +1,1 @@
-![preview](raw.githubusercontent.com/Acitulen/CleanBase/main/test2.svg)
+![preview](https://github.com/Acitulen/CleanBase/blob/main/test2.svg)
