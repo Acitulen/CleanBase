@@ -1,6 +1,3 @@
 <svg>
   <image xlink:href="https://assets.codepen.io/314556/beforeAfterPost01.jpg" x="100" y="100" width="800" height="800" />
-  <g clip-path="url(#theClipPath)">
-    <image xlink:href="https://assets.codepen.io/314556/beforeAfterPost02.jpg" x="100" y="100" width="800" height="800" />
-  </g>
 </svg>
