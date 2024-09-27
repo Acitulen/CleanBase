@@ -1,14 +1,18 @@
-<svg width="727" height="620" viewBox="0 0 727 620" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <path d="M533.771 0H0V620H727V247.5L533.771 0Z" fill="url(#pattern0)"/>
-    <path d="M533.771 0H0V620H727V247.5L533.771 0Z" fill="url(#paint0_linear)"/>
-    <defs>
-        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-            <use href="#image0" transform="translate(0 -0.134532) scale(0.000927721 0.00108783)"/>
-        </pattern>
-        <linearGradient id="paint0_linear" x1="711" y1="620" x2="363.5" y2="620" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0B1424"/>
-            <stop offset="1" stop-opacity="0"/>
-        </linearGradient>
-        <image id="image0" width="1080" height="1080" href="https://cdn2.unrealengine.com/kena-keyart-1200x1600-1200x1600-3cc88c815329.png?h=854%26resize=1%26w=640" />
-    </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <clippath id="theClipPath">
+      <rect id="clipper" x="-700" y="100" width="800" height="800" fill="red" />
+    </clippath>
+  </defs>
+ <rect x="50" y="50" width="900" height="900" fill="#eee" stroke="#777" rx="10" ry="10" />
+  <image href="https://assets.codepen.io/314556/beforeAfterPost01.jpg" x="100" y="100" width="800" height="800" />
+  <g clip-path="url(#theClipPath)">
+    <image href="https://assets.codepen.io/314556/beforeAfterPost02.jpg" x="100" y="100" width="800" height="800" />
+  </g>
+  <g id="dragger">
+    <line x1="100" y1="100" x2="100" y2="900" fill="none" stroke="#fff" stroke-width="4" stroke-miterlimit="10" />
+    <circle cx="100" cy="500" r="68" fill="#262626" />
+    <circle cx="100" cy="500" r="52" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" />
+    <text transform="translate(100 508)" text-anchor="middle" font-size="18" fill="white">DRAG</text>
+  </g>
 </svg>
