@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <clippath id="theClipPath">
+      <rect id="clipper" x="-700" y="100" width="800" height="800" fill="red" />
+    </clippath>
+  </defs>
+ <rect x="50" y="50" width="900" height="900" fill="#eee" stroke="#777" rx="10" ry="10" />
+  <image xlink:href="https://assets.codepen.io/314556/beforeAfterPost01.jpg" x="100" y="100" width="800" height="800" />
+  <g clip-path="url(#theClipPath)">
+    <image xlink:href="https://assets.codepen.io/314556/beforeAfterPost02.jpg" x="100" y="100" width="800" height="800" />
+  </g>
+  <g id="dragger">
+    <line x1="100" y1="100" x2="100" y2="900" fill="none" stroke="#fff" stroke-width="4" stroke-miterlimit="10" />
+    <circle cx="100" cy="500" r="68" fill="#262626" />
+    <circle cx="100" cy="500" r="52" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" />
+    <text transform="translate(100 508)" text-anchor="middle" font-size="18" fill="white">DRAG</text>
+  </g>
+</svg>
