@@ -1,1 +1,1 @@
-data:PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gIAogIDxpbWFnZSBocmVmPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQWNpdHVsZW4vQ2xlYW5CYXNlL21haW4vaWNvbi5wbmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiAvPiAgCjwvc3ZnPg==
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/test2.svg?raw=true)
