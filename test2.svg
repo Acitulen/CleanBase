@@ -1,4 +1,5 @@
-  <image xlink:href="https://github.com/Acitulen/CleanBase/blob/main/p1_1.png" x="100" y="100" width="800" height="800" />
-  <g clip-path="url(#theClipPath)">
-    <image xlink:href="https://github.com/Acitulen/CleanBase/blob/main/p1_2.png" x="100" y="100" width="800" height="800" />
-  </g>
+<defs>
+    <clippath id="theClipPath">
+      <rect id="clipper" x="-700" y="100" width="800" height="800" fill="red" />
+    </clippath>
+</defs>
