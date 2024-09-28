@@ -81,7 +81,7 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 *You need to install only one version either CleanBase or CleanBaseLite.  
 
 <details>
-<summary>Install CleanBaseLiteManually</summary>
+<summary>Install CleanBaseLite manually</summary>
 
 1. Download [CleanBase.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip)  
 2. Copy `CleanBase.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory.
@@ -93,5 +93,5 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 
 1. Download [CleanBase.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip)  
 2. 
-
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/LauncherInstalationGuide.png?raw=true)
 </details>
