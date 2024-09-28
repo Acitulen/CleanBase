@@ -93,5 +93,5 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 
 1. Download [CleanBase.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip)  
 2. ![Preview](https://github.com/Acitulen/CleanBase/blob/main/LauncherInstalationGuide.png?raw=true)
-</details>  
 3. Choose downloaded zip archive and press 'import local mod'
+</details>
