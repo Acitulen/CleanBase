@@ -9,7 +9,7 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 <summary>Examples</summary>
 
 
-![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP1.gif?raw=true)
+![Preview](https://github.com/Acitulen/CleanBase/Gifs/blob/main/CBP1.gif?raw=true)
 
 ![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP2.gif?raw=true)
 
