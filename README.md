@@ -29,7 +29,7 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 # Features: 
 
 * Replaced 34 textures.  
- *[Version without texture replacements](https://www.google.com)  
+ *[Version without texture replacements]([https://www.google.com](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip))  
 * Main base window is always clean.  
  *Can be disabled in configs.  
 * Removed the branch sticking out of the ground.  
