@@ -34,6 +34,7 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
  *Can be disabled in configs.  
 * Removed the branch sticking out of the ground.  
  *Can be disabled in configs.  
+ *You need to reenter the world to apply configs.
 
 
 
