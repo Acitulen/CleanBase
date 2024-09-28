@@ -27,50 +27,9 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 </details>
 
 # Features: 
-## Objects:
-This interface section allows to manipulate with all objects in a world.
-- Get location of all objects of the class.  
-*You can open variable inspector for located objects by pressing 'data' button.
-- Teleport player to found objects (Tp to).
-- Teleport objects to a player (Tp here).
-- Teleport all objects to a player.
-- Delete all objects of the class.
-
-
-## Stats:
-This interface section gives information about different important statistics in VotV and allows to manipulate some of them.
-- Get information about ariral reputation.
-- Set ariral reputation.
-- Show the information about the amount of power left in transformers.
-- Restore power in transformers.
-- Get information about the status of servers.
-- Break/fix/protect all servers.
-
-## Base settings:
-This interface section gives the ability to control states of the base.
-- Turn on/off all the lights.
-- Clean all base walls and floors from stains. 
-- Get rid of all useless (non-recyclable) rubbish.
-- Fix broken radio tower.
-
-## World settings:
-This interface section gives the ability to control some world settings.
-- Disable annoying unsolvable labyrinth (backrooms).
-- Open portable version of base console terminal. 
-- Open menu that gives ability to travel across different levels (not saves).  
-*Some levels may crash game.
-- Open menu that allows you to run some events.  
-*Most of events can only start in story mode.
-- Open menu that allows you to create waypoints and teleport to them.
-- Change speed of day/night cycle.
-
-## Player settings:
-This interface section gives the ability to control some player stats.
-- Make player immortal.
-- Make player satiety non-consumable (75%+).
-- Make player sleepiness non-consumable (75%+). 
-- Make flashlight charge endless (100%).
-- Toggle spectator mode.
+*Replaced 34 textures
+*Main base window is always clean.
+*Removed the branch sticking out of the ground.
 
 
 ## Manual instalation guide.
