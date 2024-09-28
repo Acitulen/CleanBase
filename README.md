@@ -75,7 +75,12 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 <summary>Install CleanBase</summary>
 
 1. Copy `CleanBase.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
-2. Copy the contents of the `mod` folder in `GAME/Binaries/Win64/Mods/Acitulen-CleanBase` directory.  
-*you have to create 'Acitulen-CleanBase' floader manually.
-3. Run `Fusion.exe` from `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
+2. Run `Fusion.exe` from `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
+</details>
+
+*You need to install only one version either CleanBase or CleanBaseLite.  
+
+<summary>Install CleanBaseLite</summary>
+
+1. Copy `CleanBase.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
 </details>
