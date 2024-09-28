@@ -9,19 +9,19 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 <summary>Examples</summary>
 
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/main/DebugModDemonstration2.png?raw=true)
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP1.gif?raw=true)
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/main/DebugModDemonstration3.png?raw=true) 
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP2.gif?raw=true)
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/main/DebugModDemonstration1.png?raw=true)
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP3.gif?raw=true)
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/main/VariableInspectorPreview.png?raw=true)
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP4.gif?raw=true)
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/main/SpectatorPreview.png?raw=true)
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP5.gif?raw=true)
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/main/DebugModMainMenuPreview.png?raw=true)
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP6.gif?raw=true)
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/main/DebugModServersPreview.png?raw=true)
+![Preview](https://github.com/Acitulen/CleanBase/blob/main/CBP7.gif?raw=true)
 
 
 </details>
