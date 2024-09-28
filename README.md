@@ -1,1 +1,3 @@
-<img src="https://github.com/Acitulen/CleanBase/blob/main/Preview.svg">
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
