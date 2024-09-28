@@ -1,1 +1,1 @@
-![Preview](https://github.com/Acitulen/CleanBase/blob/main/test.svg?raw=true)
+<img src="./Preview.svg">
