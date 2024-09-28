@@ -1,1 +1,1 @@
-![](https://github.com/Acitulen/CleanBase/blob/main/Videos/CBP1.mov)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
