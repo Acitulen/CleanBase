@@ -27,9 +27,14 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 </details>
 
 # Features: 
-*Replaced 34 textures
-*Main base window is always clean.
-*Removed the branch sticking out of the ground.
+
+*Replaced 34 textures.  
+ * [Version without texture replacements](https://www.google.com)
+
+*Main base window is always clean.  
+
+*Removed the branch sticking out of the ground.  
+
 
 
 ## Manual instalation guide.
