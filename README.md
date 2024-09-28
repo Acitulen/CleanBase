@@ -1,1 +1,1 @@
-<img src="https://github.com/Acitulen/CleanBase/edit/main/Preview.svg">
+<img src="https://github.com/Acitulen/CleanBase/blob/main/Preview.svg">
