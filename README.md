@@ -1,5 +1,5 @@
 # **CleanBase**
-This mod makes the base cleaner by removing some cracks, stains and blood spots.
+This mod makes the base and windows cleaner by removing some cracks, stains and blood spots.
 
 # Preview
 
@@ -28,7 +28,7 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 
 # Features: 
 
-* Replaced 34 textures.  
+* Replaced 35 textures.  
  *[Version without texture replacements](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip)  
 * Main base window is always clean.  
  *Can be disabled in configs.  
@@ -96,3 +96,4 @@ This mod makes the base cleaner by removing some cracks, stains and blood spots.
 ![Preview](https://github.com/Acitulen/CleanBase/blob/main/LauncherInstalationGuide.png?raw=true)
 3. Choose downloaded zip archive and press 'import local mod'
 </details>
+
