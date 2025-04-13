@@ -29,12 +29,12 @@ This mod makes the base and windows cleaner by removing some cracks, stains and 
 # Features: 
 
 * Replaced 35 textures.  
- *[Version without texture replacements](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip)  
+ *[Version without texture replacements (before VoidMod2.1.0)](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip)  
+*[Version without texture replacements (after VoidMod2.1.0)](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.1.0.zip)  
 * Main base window is always clean.  
  *Can be disabled in configs.  
 * Removed the branch sticking out of the ground.  
  *Can be disabled in configs.  
- *You need to reenter the world to apply configs.
 
 
 
@@ -55,27 +55,16 @@ This mod makes the base and windows cleaner by removing some cracks, stains and 
 </details>
 
 <details>
-<summary>Install VoidMod-2.0.0</summary>
+<summary>Install VoidMod-2.1.0</summary>
 
 1. Copy `VoidMod2.pak` from the pak floader to `GAME/Content/Paks/LogicMods` directory. 
 </details>
 
 <details>
-<summary>Install Fusion</summary>
-
-1. Copy `everything (except mod floader)` from the archive to `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.  
-*you have to create `NynrahGhost-Fusion` floader manually.
-2. Copy the contents of the `mod` folder in `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
-3. Create floader `Bina` in `GAME` directory
-4. Make an empty `mods.yml` file in `GAME/Bina` directory.
-5. Run `Fusion.exe` from `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
-</details>
-<details>
 
 <summary>Install CleanBase</summary>
 
 1. Copy `CleanBase.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
-2. Run `Fusion.exe` from `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
 </details>
 
 *You need to install only one version either CleanBase or CleanBaseLite.  
@@ -83,15 +72,15 @@ This mod makes the base and windows cleaner by removing some cracks, stains and 
 <details>
 <summary>Install CleanBaseLite manually</summary>
 
-1. Download [CleanBase.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip)  
-2. Copy `CleanBase.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory.
+1. Download [CleanBaseLite_2.0.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip) or [CleanBaseLite_2.1.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.1.0.zip) 
+2. Copy `CleanBaseLite.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory.
 
 </details>
 
 <details>
 <summary>Install CleanBaseLite in launcher</summary>
 
-1. Download [CleanBase.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBase.zip)  
+1. Download [CleanBaseLite_2.0.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip) or [CleanBaseLite_2.1.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.1.0.zip)  
 2.  
 ![Preview](https://github.com/Acitulen/CleanBase/blob/main/LauncherInstalationGuide.png?raw=true)
 3. Choose downloaded zip archive and press 'import local mod'
