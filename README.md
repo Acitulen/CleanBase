@@ -53,7 +53,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
  *Can be disabled in configs.  
 ---
 
-## Manual instalation guide.
+## Manual installation guide.
 
 <details>
 <summary>Install unreal shimloader</summary>
