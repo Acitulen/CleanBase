@@ -76,7 +76,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 1. Copy `CleanBase.pak` and `CleanBase_p.pak` from the `pak` folder to `GAME/Content/Paks/LogicMods` directory. 
 </details>
 
-*You need to install only one version either CleanBase or CleanBaseLite.  
+⚠️ Install only one version — either CleanBase or CleanBaseLite.  
 
 <details>
 <summary>Install CleanBaseLite manually</summary>
