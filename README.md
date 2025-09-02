@@ -46,7 +46,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 # Features: 
 
 * Replaced 35 textures.  
- *[Version without texture replacements](https://github.com/Acitulen/CleanBase/blob/1.1.0/CleanBaseLite/CleanBaseLite.zip)  
+ *[Version without texture replacements](https://github.com/Acitulen/CleanBase/raw/refs/heads/1.1.0/CleanBaseLite/CleanBaseLite.zip)  
 * Main base window is always clean.  
  *Can be disabled in configs.  
 * Removed the branch sticking out of the ground.  
@@ -81,7 +81,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 <details>
 <summary>Install CleanBaseLite manually</summary>
 
-1. Download [CleanBaseLite.zip](https://github.com/Acitulen/CleanBase/blob/1.1.0/CleanBaseLite/CleanBaseLite.zip).  
+1. Download [CleanBaseLite.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/1.1.0/CleanBaseLite/CleanBaseLite.zip).  
 2. Copy `CleanBaseLite.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory.
 
 </details>
@@ -89,7 +89,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 <details>
 <summary>Install CleanBaseLite in launcher</summary>
 
-1. Download [CleanBaseLite.zip](https://github.com/Acitulen/CleanBase/blob/1.1.0/CleanBaseLite/CleanBaseLite.zip).  
+1. Download [CleanBaseLite.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/1.1.0/CleanBaseLite/CleanBaseLite.zip).  
 2.  
 ![Preview](https://github.com/Acitulen/CleanBase/blob/main/LauncherInstalationGuide.png?raw=true)
 3. Choose downloaded zip archive and press 'import local mod'
