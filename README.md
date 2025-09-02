@@ -10,10 +10,10 @@ If you have any suggestions or encounter a bug, you can submit it as an issue on
 # **Configs**:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
-- **RemoveBranch** - Sets the keybind to open main debug menu.  
+- **RemoveBranch** - Removes the branch sticking out of the ground.   
   **Default:** `true`
  
-- **CleanGlass** - Removes the branch sticking out of the ground.  
+- **CleanGlass** - Sets main base window to be always clean.   
   **Default:** `true`
 
 ---
