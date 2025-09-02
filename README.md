@@ -1,7 +1,7 @@
 # CleanBase
 This mod makes the base and windows cleaner by removing some cracks, stains and blood spots.   
   
-**⚠️WARNING⚠️ This version of CleanBase is designed to function with VotV 0.8.2c_0011. Using older or newer versions of the game may cause errors!**  
+**⚠️WARNING⚠️ This version of CleanBase mod is designed to function with VotV 0.8.2c_0011. Using older or newer versions of the game may cause errors!**  
 
 If you have any suggestions or encounter a bug, you can submit it as an issue on my [GitHub repository](https://github.com/Acitulen/CleanBase).
 
