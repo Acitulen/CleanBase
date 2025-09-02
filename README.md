@@ -1,5 +1,22 @@
-# **CleanBase**
-This mod makes the base and windows cleaner by removing some cracks, stains and blood spots.
+# CleanBase
+This mod makes the base and windows cleaner by removing some cracks, stains and blood spots.   
+  
+**⚠️WARNING⚠️ This version of CleanBase is designed to function with VotV 0.8.2c_0011. Using older or newer versions of the game may cause errors!**  
+
+If you have any suggestions or encounter a bug, you can submit it as an issue on my [GitHub repository](https://github.com/Acitulen/CleanBase).
+
+---
+
+# **Configs**:
+Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
+
+- **RemoveBranch** - Sets the keybind to open main debug menu.  
+  **Default:** `true`
+ 
+- **CleanGlass** - Removes the branch sticking out of the ground.  
+  **Default:** `true`
+
+---
 
 # Preview
 
@@ -35,8 +52,7 @@ This mod makes the base and windows cleaner by removing some cracks, stains and 
  *Can be disabled in configs.  
 * Removed the branch sticking out of the ground.  
  *Can be disabled in configs.  
-
-
+---
 
 ## Manual instalation guide.
 
@@ -55,16 +71,10 @@ This mod makes the base and windows cleaner by removing some cracks, stains and 
 </details>
 
 <details>
-<summary>Install VoidMod-2.1.0</summary>
-
-1. Copy `VoidMod2.pak` from the pak floader to `GAME/Content/Paks/LogicMods` directory. 
-</details>
-
-<details>
 
 <summary>Install CleanBase</summary>
 
-1. Copy `CleanBase.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
+1. Copy `CleanBase.pak` and `CleanBase_p.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
 </details>
 
 *You need to install only one version either CleanBase or CleanBaseLite.  
@@ -72,7 +82,7 @@ This mod makes the base and windows cleaner by removing some cracks, stains and 
 <details>
 <summary>Install CleanBaseLite manually</summary>
 
-1. Download [CleanBaseLite_2.0.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip) or [CleanBaseLite_2.1.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.1.0.zip) 
+1. Download [CleanBaseLite.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip).  
 2. Copy `CleanBaseLite.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory.
 
 </details>
@@ -80,9 +90,8 @@ This mod makes the base and windows cleaner by removing some cracks, stains and 
 <details>
 <summary>Install CleanBaseLite in launcher</summary>
 
-1. Download [CleanBaseLite_2.0.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip) or [CleanBaseLite_2.1.0.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.1.0.zip)  
+1. Download [CleanBaseLite.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip).  
 2.  
 ![Preview](https://github.com/Acitulen/CleanBase/blob/main/LauncherInstalationGuide.png?raw=true)
 3. Choose downloaded zip archive and press 'import local mod'
 </details>
-
