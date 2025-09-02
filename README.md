@@ -73,7 +73,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 <summary>Install CleanBase</summary>
 
-1. Copy `CleanBase.pak` and `CleanBase_p.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
+1. Copy `CleanBase.pak` and `CleanBase_p.pak` from the `pak` folder to `GAME/Content/Paks/LogicMods` directory. 
 </details>
 
 *You need to install only one version either CleanBase or CleanBaseLite.  
@@ -82,7 +82,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 <summary>Install CleanBaseLite manually</summary>
 
 1. Download [CleanBaseLite.zip](https://github.com/Acitulen/CleanBase/raw/refs/heads/1.1.0/CleanBaseLite/CleanBaseLite.zip).  
-2. Copy `CleanBaseLite.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory.
+2. Copy `CleanBaseLite.pak` from the `pak` folder to `GAME/Content/Paks/LogicMods` directory.
 
 </details>
 
