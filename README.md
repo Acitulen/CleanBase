@@ -7,7 +7,7 @@ If you have any suggestions or encounter a bug, you can submit it as an issue on
 
 ---
 
-# **Configs**:
+# **Configs**
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
 - **RemoveBranch** - Removes the branch sticking out of the ground.   
@@ -43,7 +43,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 
 </details>
 
-# Features: 
+# Features  
 
 * Replaced 35 textures.  
  *[Version without texture replacements](https://github.com/Acitulen/CleanBase/raw/refs/heads/1.1.0/CleanBaseLite/CleanBaseLite.zip)  
