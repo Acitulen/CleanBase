@@ -46,8 +46,7 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 # Features: 
 
 * Replaced 35 textures.  
- *[Version without texture replacements (before VoidMod2.1.0)](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip)  
-*[Version without texture replacements (after VoidMod2.1.0)](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.1.0.zip)  
+ *[Version without texture replacements](https://github.com/Acitulen/CleanBase/raw/refs/heads/main/CleanBaseLite/CleanBaseLite_2.0.0.zip)  
 * Main base window is always clean.  
  *Can be disabled in configs.  
 * Removed the branch sticking out of the ground.  
